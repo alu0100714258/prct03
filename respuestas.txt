@@ -1,1 +1,17 @@
-
+18. Nos muestra lo escrito entre comillas.
+21. Con el uso de comillas dobles se contraponen por lo que se muestra
+es un tabulador y salto de línea , mientras que con comillas simples
+nos muestra el contenido de estas , es decir, \t\n .
+22. en q 'a' nos muestra el contenido de q
+23. con Q no muestra el contenido que es helo world , mientra con el
+uso de "" muestra 
+24. Nos muestra el contenido de HERE incluyendo las asignaciones de a y b
+25. Al tener las comillas simples nos muestra el contenido integro de HERE sin la asignaciones de a y b
+26. 
+	- s[0,2]  "he"
+	- s[-1,1] "o" 
+	- s[0,10] "hello"
+27. En g queda asignada tanto lo que tenia asignada inicialmente como lo añadido despues con << " "
+28. Queda lo siguiente: "..."
+29. "2 2 2 "
+30. Muestra el contenido del array como si fuesen cada palabra una array
